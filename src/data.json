@@ -4,6 +4,7 @@
 			"entryId": 1,
 			"title": "Solo Leveling",
 			"links": {
+				"root": "mangatx",
 				"base": "https://mangatx.com/manga/solo-leveling-manhwa-free/",
 				"recent_read_chapter": "https://mangatx.com/manga/solo-leveling-manhwa-free/chapter-138/",
 				"recent_read_release_date": "February 3, 2021",
@@ -14,6 +15,7 @@
 			"entryId": 2,
 			"title": "The Precious Sister of the Villainous Grand Duke",
 			"links": {
+				"root": "mangadex",
 				"base":"https://mangadex.org/title/61461/the-precious-sister-of-the-villainous-grand-duke",
 				"recent_read_chapter": "",
 				"recent_read_release_date": "",
