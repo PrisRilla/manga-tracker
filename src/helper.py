@@ -59,7 +59,7 @@ def validate_link(link):
 
 
 if __name__=="__main__":
-	with open('/Users/priscillacheng/Documents/projects/manga-web-marker/scripts/data.json') as f:
+	with open('/Users/priscillacheng/Documents/projects/manga-tracker/src/data.json') as f:
         	data = json.load(f)
 	last_id = read_json(data)
 	new_record(last_id)
