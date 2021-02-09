@@ -7,6 +7,6 @@ This project is intended to keep track of any new unread manga releases, reducin
   
   
 # Requirements
-- [] Python 3.7+  
-	- [] urllib
-- [] beautifulsoup4  
+- [x] Python 3.7+  
+	- [x] urllib
+- [x] beautifulsoup4  
