@@ -21,7 +21,7 @@ def read_json(data):
 	last_id = 0
 	for r in records:
 		if r["title"] not in d:
-			d[r["title"]] = [r["links"]["root"]]
+			d[r["title"]] = [r["links"]["base"]]
 		if r["entryId"] > last_id:
 			last_id = r["entryId"] 
 	print("Below are the current tracked manga title(s) and link(s):")
